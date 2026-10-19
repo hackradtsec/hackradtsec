@@ -1,4 +1,4 @@
-# Olá! Eu me chamo Beatriz Hackradt.
+# Olá! Eu me chamo Beatriz Hackradt
 
 ### Analista de Cibersegurança | Red Team & Offensive Security
 
