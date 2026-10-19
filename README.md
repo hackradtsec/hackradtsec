@@ -31,7 +31,7 @@ Atuar em posições de **Pentest / Red Team / Análise de Segurança Júnior**, 
 
 ---
 
-## 📬 Vamos nos conectar?
+## Vamos nos conectar?
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/beatriz-hackradt
 - 📧 **E-mail:** hackradtsec@gmail.com
