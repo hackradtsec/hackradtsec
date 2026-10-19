@@ -27,7 +27,7 @@ Atuar em posições de **Pentest / Red Team / Análise de Segurança Júnior**, 
 
 - 🔴 **TryHackMe:** https://tryhackme.com/p/hackradtsec?utm_campaign=social_share&utm_medium=social&utm_content=profile&utm_source=copy&cardVersion=45d04813f579&sharerId=6ab4814775ad39bd624a8d05
 - 🟢 **Hack The Box:** https://profile.hackthebox.com/profile/01a0f3ef-b73d-72c3-98a3-6b33872534b2?utm_medium=copy_url
-- 🟡 **PortSwingger:** 
+- 🟡 **PortSwingger** 
 
 ---
 
